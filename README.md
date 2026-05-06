@@ -153,22 +153,6 @@ Saint Peter's University, Jersey City, NJ *(Feb 2023 – Feb 2025)*
 
 ---
 
-## 📊 GitHub Statistics
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Yaswanth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yaswanth-pati&show_icons=true&count_private=true&hide_border=true&theme=dark" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Yaswanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-pati&layout=compact&hide_border=true&theme=dark" />
-</a>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Yaswanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yaswanth-pati&bg_color=0d1117&color=white&line=00ff00&point=00ff00&area=true&hide_border=true" />
-</a>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm passionate about collaborating on **AI/ML projects**, **Generative AI applications**, and **MLOps initiatives**.
@@ -182,7 +166,5 @@ I'm passionate about collaborating on **AI/ML projects**, **Generative AI applic
 <div align="center">
 
 ⭐ **If you find my work interesting, please star my repositories and follow for updates!**
-
-*Last Updated: May 2026*
 
 </div>
