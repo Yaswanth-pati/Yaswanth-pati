@@ -127,14 +127,6 @@ Saint Peter's University, Jersey City, NJ *(Feb 2023 – Feb 2025)*
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaswanth-pati&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-pati&layout=compact&theme=dark)
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on exciting **AI/ML projects**, **Generative AI applications**, and **MLOps initiatives**. 
