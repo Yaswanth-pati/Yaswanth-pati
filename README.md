@@ -14,8 +14,8 @@
 - ✅ **30% improvement** in semantic search accuracy with LLM-powered applications  
 - ✅ **40% faster** ML model deployment cycles with MLOps automation
 - ✅ **95%+ accuracy** in wildfire prediction system
-- ✅ **2,271 GitHub contributions** | **4.6K stars** across repositories
-- ✅ **11.4K followers** | **472 following**
+- ✅ **Consistent contributor** on GitHub with high-impact projects
+- ✅ **Certified** in Databricks & Google Data Analytics
 
 ---
 
@@ -155,15 +155,17 @@ Saint Peter's University, Jersey City, NJ *(Feb 2023 – Feb 2025)*
 
 ## 📊 GitHub Statistics
 
-| Metric | Value |
-|--------|-------|
-| 📈 Total Contributions | 2,271+ |
-| ⭐ Repository Stars | 4.6K |
-| 👥 Followers | 11.4K |
-| 📚 Following | 472 |
-| 🔧 Repositories | 25+ |
-| 💾 Public Repos | 18 |
-| 🔍 Most Used Language | Python |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Yaswanth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yaswanth-pati&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Yaswanth's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-pati&layout=compact&hide_border=true&theme=dark" />
+</a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Yaswanth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yaswanth-pati&bg_color=0d1117&color=white&line=00ff00&point=00ff00&area=true&hide_border=true" />
+</a>
 
 ---
 
