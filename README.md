@@ -155,9 +155,15 @@ Saint Peter's University, Jersey City, NJ *(Feb 2023 – Feb 2025)*
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaswanth-pati&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-pati&layout=compact&theme=dark)
+| Metric | Value |
+|--------|-------|
+| 📈 Total Contributions | 2,271+ |
+| ⭐ Repository Stars | 4.6K |
+| 👥 Followers | 11.4K |
+| 📚 Following | 472 |
+| 🔧 Repositories | 25+ |
+| 💾 Public Repos | 18 |
+| 🔍 Most Used Language | Python |
 
 ---
 
